@@ -7,3 +7,7 @@ Shorten the movie titles by removing the additional description using excel's fi
 Brought consistency to the data by removing empty rows and Capitalizing names.
 
 Learnings - Learned to use find and replace effectively and formatted the data in table format. 
+
+
+Task-2 (Stella sales dashboard)
+Objective- Bring insights on the data by creating a useful dashboard regarding meeting, discussions. 
