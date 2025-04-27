@@ -11,3 +11,8 @@ Learnings - Learned to use find and replace effectively and formatted the data i
 
 Task-2 (Stella sales dashboard)
 Objective- Bring insights on the data by creating a useful dashboard regarding meeting, discussions. 
+
+Task-3 (SQL Queries)
+Objective: Optimize SQL queries using indexes and perform complex data analysis.
+Changes Made: Created indexes on key columns like JobTitle and TotalPay to optimize query performance. Used subqueries and JOINs to filter and compare salary data, ensuring faster execution and accurate insights.
+Learnings: Learned how to create indexes to optimize query performance and utilized subqueries and JOINs for more efficient data analysis.
